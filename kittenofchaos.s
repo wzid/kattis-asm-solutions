@@ -1,3 +1,4 @@
+// https://open.kattis.com/problems/kittenofchaos
 .data
 s_buffer:  .space 500000 // s can be up to 5 * 10^5 characters
 t_buffer: .space 500000 // t can be up to 5 * 10^5 characters

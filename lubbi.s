@@ -1,3 +1,4 @@
+// https://open.kattis.com/problems/lubbilaerir
 .data
 buffer:  .space 1               // We only need 1 byte for a single character
 
